@@ -5,4 +5,4 @@
   `uvicorn main:app --reload`
 ## Description
 - Документация находится по адресу `http://127.0.0.1:8000/docs`
-<img src="images/readme1.png" title="Документация" width="50%" height="50%" />
+<img src="images/readme1.png" title="Документация" width="100%" height="100%" />
